@@ -13,10 +13,14 @@ Meeting website: http://gravitation.web.ua.pt/index.php/node/4326
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-1. How to use PINNs to solve differential equations, including ODEs, PDEs and eigenvalue problems.
-2. How these can be used, for instance, for the computation of QNMs and the solution of Einstein's equations.<br>Original paper:<br>
+1. How to use PINNs to solve differential equations, including ODEs, PDEs and eigenvalue problems.<br>Original paper:<br>
 
  - Maziar Raissi, Paris Perdikaris, George Em Karniadakis, <i>Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations</i>, Journal of Computational Physics, 378, 686-707, 2019. https://arxiv.org/abs/1711.10561
+ 
+2. How these can be used, for instance, for the computation of QNMs.<br>Original paper:<br>
+
+ - Raimon Luna, Juan Calderón Bustillo, Juan José Seoane Martínez, Alejandro Torres-Forné, José A. Font, <i>Solving the Teukolsky equation with physics-informed neural networks
+</i>, Phys.Rev.D 107 (2023) 6, 064025, 2023. https://arxiv.org/abs/2212.06103
 
 ### 2. Autoencoders and Generative Adversarial Networks (GANs)
 <a href="https://colab.research.google.com/github/raimonluna/MachineLearningForStrongGravity/blob/main/Lecture2_Autoencoders_and_Generative_Adversarial_Networks.ipynb">
