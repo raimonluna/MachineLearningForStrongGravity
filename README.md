@@ -33,7 +33,7 @@ Meeting website: http://gravitation.web.ua.pt/index.php/node/4326
 
  - Felipe F. Freitas, Carlos A. R. Herdeiro, António P. Morais, António Onofre, Roman Pasechnik, Eugen Radu, Nicolas Sanchis-Gual, Rui Santos, <i>Generating gravitational waveform libraries of exotic compact binaries with deep learning</i>, 2022. https://arxiv.org/abs/2203.01267
 
-### 3. Learning Orbital Dynamics from Gravitational Waveforms
+### 3. Learning Orbital Dynamics and Fourier Neural Operators
 <a href="https://colab.research.google.com/github/raimonluna/MachineLearningForStrongGravity/blob/main/Lecture3_Learning_Orbital_Dynamics_and_Fourier_Neural_Operators.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
