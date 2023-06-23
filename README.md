@@ -1,6 +1,6 @@
 # Machine Learning For Strong Gravity
 
-Short course for the Group meeting: "State of the art techniques in Strong gravity"
+Short course created for the Group meeting: "State of the art techniques in Strong gravity"
 
 Sāo Pedro do Sul (Portugal), 26-28 April 2023
 
