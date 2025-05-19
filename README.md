@@ -6,6 +6,20 @@ Sāo Pedro do Sul (Portugal), 26-28 April 2023
 
 Meeting website: http://gravitation.web.ua.pt/index.php/node/4326
 
+---
+
+Also used at the meeting: NewFunFiCO meeting on Compact Objects, Gravitational Waves, Shadows, and Machine Learning
+
+València (Spain), 20-22 May 2025
+
+Meeting website: https://www.uv.es/nisan4/NewFunFiCO2025/NewFunfiCO/index.html
+
+## We acknowledge funding by:
+
+<p align="center">
+ <img src="https://github.com/raimonluna/MachineLearningForStrongGravity/blob/main/LogosBarcelona.png" width="1000"/>
+</p>
+
 ## Lectures:
 
 ### 1. Physics-informed neural networks (PINNs)
